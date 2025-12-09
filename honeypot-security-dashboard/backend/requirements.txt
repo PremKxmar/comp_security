@@ -1,0 +1,10 @@
+flask
+flask-cors
+flask-sqlalchemy
+psycopg2-binary
+python-dotenv
+geoip2
+scikit-learn
+pandas
+numpy
+reportlab

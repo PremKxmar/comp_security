@@ -1,0 +1,11 @@
+payload,label
+SELECT * FROM users,SQL Injection
+<script>alert(1)</script>,XSS
+normal user input,Normal
+admin,Normal
+1 OR 1=1,SQL Injection
+hello world,Normal
+UNION SELECT,SQL Injection
+javascript:void(0),XSS
+search term,Normal
+login,Normal

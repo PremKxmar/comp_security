@@ -1,0 +1,5 @@
+{
+  "name": "Honeypot Security Dashboard",
+  "description": "Real-time threat monitoring and honeypot management system.",
+  "requestFramePermissions": []
+}
